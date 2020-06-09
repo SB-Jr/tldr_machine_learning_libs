@@ -1,0 +1,3 @@
+[submodule "tldr_projects/sudoku_bot"]
+	path = tldr_projects/sudoku_bot
+	url = https://github.com/SB-Jr/sudoku_bot.git
