@@ -16,3 +16,6 @@
 [submodule "tldr_keras_notes"]
 	path = tldr_keras_notes
 	url = https://github.com/SB-Jr/tldr_keras.git
+[submodule "tldr_pandas_notes"]
+	path = tldr_pandas_notes
+	url = https://github.com/SB-Jr/tldr_pandas.git
