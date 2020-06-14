@@ -1,3 +1,6 @@
 [submodule "tldr_projects/sudoku_bot"]
 	path = tldr_projects/sudoku_bot
 	url = https://github.com/SB-Jr/sudoku_bot.git
+[submodule "machine_learning_concepts"]
+	path = machine_learning_concepts
+	url = https://github.com/SB-Jr/machine_learning_concepts.git
