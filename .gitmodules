@@ -25,3 +25,6 @@
 [submodule "tldr_projects/cats_vs_dogs_classification"]
 	path = tldr_projects/cats_vs_dogs_classification
 	url = https://github.com/SB-Jr/Cats_Vs_Dogs_Classification.git
+[submodule "tld_concept_notes"]
+	path = tld_concept_notes
+	url = https://github.com/SB-Jr/machine_learning_concepts.git
