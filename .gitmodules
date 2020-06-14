@@ -7,3 +7,6 @@
 [submodule "tldr_tensorflow_notes"]
 	path = tldr_tensorflow_notes
 	url = https://github.com/SB-Jr/tldr_tensorflow.git
+[submodule "tldr_plotting_notes"]
+	path = tldr_plotting_notes
+	url = https://github.com/SB-Jr/tldr_plotting.git
