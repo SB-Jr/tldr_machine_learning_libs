@@ -4,3 +4,6 @@
 [submodule "machine_learning_concepts"]
 	path = tldr_concepts
 	url = https://github.com/SB-Jr/machine_learning_concepts.git
+[submodule "tldr_tensorflow_notes"]
+	path = tldr_tensorflow_notes
+	url = https://github.com/SB-Jr/tldr_tensorflow.git
