@@ -22,3 +22,6 @@
 [submodule "tldr_paper_notes"]
 	path = tldr_paper_notes
 	url = https://github.com/SB-Jr/tldr_papers.git
+[submodule "tldr_projects/cats_vs_dogs_classification"]
+	path = tldr_projects/cats_vs_dogs_classification
+	url = https://github.com/SB-Jr/Cats_Vs_Dogs_Classification.git
