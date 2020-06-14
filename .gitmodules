@@ -13,3 +13,6 @@
 [submodule "tldr_kaggle_notebooks"]
 	path = tldr_kaggle_notebooks
 	url = https://github.com/SB-Jr/kaggle_competitions.git
+[submodule "tldr_keras_notes"]
+	path = tldr_keras_notes
+	url = https://github.com/SB-Jr/tldr_keras.git
