@@ -19,3 +19,6 @@
 [submodule "tldr_pandas_notes"]
 	path = tldr_pandas_notes
 	url = https://github.com/SB-Jr/tldr_pandas.git
+[submodule "tldr_paper_notes"]
+	path = tldr_paper_notes
+	url = https://github.com/SB-Jr/tldr_papers.git
